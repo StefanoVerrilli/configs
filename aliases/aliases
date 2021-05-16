@@ -1,0 +1,9 @@
+alias ls='ls -G'
+alias ll='ls -la'
+alias gcc='gcc-10'
+alias v='vim'
+alias yt="youtube-dl -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best'"
+alias proc="uname -p"
+alias tmux="tmux -f ~/.config/tmux/.tmux.conf"
+alias wget="wget --hsts-file ~/.config/wget"
+alias clock="defaults write com.apple.menuextra.clock IsAnalog -bool"
