@@ -1,0 +1,1039 @@
+tmux
+ls
+cd projopencv
+ls
+cd
+cd projopencv
+ls
+rm copy3.cpp
+ls
+cd
+l
+ll
+clear
+proc
+clear
+sudo powermetrics --samplers gpu_power
+htop
+clear
+htop
+clear
+cd .config
+ls
+cd htop
+ls
+ll
+clear
+ll
+cd
+ls
+clear
+brew install htop
+ls
+cd /
+ls
+cd Users
+ls
+ll
+cd arm
+ls
+clear
+htop
+cler
+clear
+ls
+clear
+ll
+rm .DS_Store
+sl
+sl
+ll
+clear
+ll
+clear
+ls
+ll
+mpv https://www.youtube.com/watch?v=SfTSBbaFN8Y
+mpv "https://www.youtube.com/watch?v=SfTSBbaFN8Y"
+mpv "https://www.youtube.com/watch?v=SfTSBbaFN8Y"
+bg
+clear
+ls
+clear
+ls
+fg
+bg
+bg
+fg
+mpv "https://www.youtube.com/watch?v=SfTSBbaFN8Y"&
+sl
+ls
+clear
+ls
+v play.sh
+ls
+chmod +x play.sh
+ls
+./play.sh "https://www.youtube.com/watch?v=SfTSBbaFN8Y"
+which $SHELL
+v play.sh
+source play.sh
+claer
+./play.sh "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+v .zshenv
+echo $PATH
+clear
+cd .config/zsh
+ls
+ll
+v .zshrc
+cd ..
+sl
+ll
+cd zsh
+ls
+ll
+v .zshrc
+clear
+ls
+cd
+ll
+echo $PATH
+ll
+mv play.sh /usr/local/bin
+sl
+ll
+clear
+./play.sh "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play.sh "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+cd /usr/local/bin
+ls
+clear
+mv play.sh play
+ls
+play
+clear
+cd
+sl
+ll
+clear
+play "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play https://www.youtube.com/watch?v=Ye6yz8mbkLo
+cd /usr/local/bin
+ls
+v play
+source pla
+source play
+clea
+clear
+cd
+play https://www.youtube.com/watch?v=Ye6yz8mbkLo
+https://www.youtube.com/watch?v=Ye6yz8mbkLo
+play https://www.youtube.com/watch?v=Ye6yz8mbkLo
+play "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+ls
+clear
+play "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play --geometry 1680x1050 "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+play --geometry 1680x1050 "https://www.youtube.com/watch?v=Ye6yz8mbkLo"
+clar
+clear
+ls
+ls
+clear
+ll
+cd
+ls
+play "https://www.youtube.com/watch?v=SfTSBbaFN8Y&t=38s"
+ssh
+clear
+cd .config
+ls
+cd zsh
+ls
+v .zshrc
+source .zshrc
+clear
+cd
+ls
+ls
+clear
+ll
+ll
+clear
+ll
+cd Downloads
+l
+cd projopencv
+ls
+cd Color_op
+ls
+v Utility.hpp
+shutdown -s
+su
+su
+clear
+sudo shutdown -s
+sudo shutdown -s
+shutdown -s
+su
+sudo shutdown
+sudo shutdown -h now
+ls
+cd
+sl
+ls
+cd projopencv
+ls
+cd
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd
+ls
+v .zshenv
+code .zshenv
+cd projopencv/
+ls
+cd Color_op
+ls
+code .
+clear
+ls
+defaults write com.apple.menuextra.clock IsAnalog -bool false\
+
+defaults write com.apple.menuextra.clock IsAnalog -bool true\
+
+defaults write com.apple.menuextra.clock IsAnalog -bool false\
+
+cd .config\
+
+ls
+cd zsh
+cd ..
+cd aliases
+ls
+v aliases
+source alias
+source aliases
+clear
+cd
+ls
+clock true
+clock false
+make
+./Sharpening_Smoothing_RGB ../lena.png
+cd projopencv
+ls
+cd Color_op
+code .
+ls
+clear
+ls
+clear
+ls
+./Sharpening_Smoothing_RGB
+./Sharpening_Smoothing_RGB ../lena.png
+ls
+clear
+ls
+cd projopencv/o
+cd por
+cd projopencv/o
+cd projopencv/
+ls
+cd Sobel_op
+ls
+cd
+ls
+clear
+ssh
+clear
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+ss
+clear
+ls
+ll
+clear
+ll
+v .oh-my-zsh
+cd .oh-my-zsh
+ls
+cd themes
+ls
+cd ..
+ls
+cd
+ls
+clear
+ll
+v .zshrc
+clear
+sl
+ls
+ll
+mv .zshenv .config
+ls
+source .zshrc
+clear
+ll
+clear
+lll
+ll
+cd projopencv/o
+cd projopencv/o
+cd projopencv
+ls
+cd 
+rm .zshrc.omz-uninstalled-2021-05-12_17-33-45
+ls
+lcear
+clear
+ll
+clear
+ls
+clear
+ll
+ls
+clear
+ll
+clear
+ssh -p 22 batman@192.168.178.41
+ssh -p 22 batman@192.168.179.41
+ssh -p 22 batman@0.0.0.0
+ssh -p 22 batman@127.0.0.1
+ssh -p 2222 batman@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+clear
+ssh-keygen -t rsa -b 2048
+cd
+ls
+cd .ssh
+ls
+ll
+open
+open .
+ssh -p 2222 user@192.168.178.41
+clear
+ls
+ll
+ssh-copy-id -i id_rsa.pub 192.168.178.41
+ssh-copy-id -i -p 2222 id_rsa.pub 192.168.178.41
+ssh-copy-id -p 2222 -i 192.168.178.41
+ssh-copy-id -p 2222 -i 192.168.178.41
+vim config
+clear
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 Batman@192.168.178.41
+ssh -p 2222 batman@192.168.178.41
+ssh-copy-id -i id_rsa.pub batman@192.168.178.41
+ssh-copy-id -p 2222 -i id_rsa.pub batman@192.168.178.41
+ssh -p 2222 batman@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh-copy-id -p 2222 -i 192.168.178.41
+ssh-keygen -t rsa -b 2048
+ssh-copy-id -p 2222 -i 192.168.178.41
+sudo su
+ls
+ssh-copy-id -p 2222 -i 192.168.178.41
+ssh-copy-id -p 2222 -i user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 user@192.168.178.41
+ssh -p 2222 -vvv -i user@192.168.178.41
+ssh -vvv -p 2222 -i user@192.168.178.41
+ssh -vvv -p 2222 -i id_rsa user@192.168.178.41
+ssh-keygen
+vim ~/.ssh/config
+ssh-copy-id -i .ssh/id_rsa.pub 192.168.178.41
+ssh-copy-id -p 2222 -i .ssh/id_rsa.pub 192.168.178.41
+ssh -p 22 user@192.168.178.41
+ssh-copy-id -p 2222 -i .ssh/id_rsa.pub 192.168.178.41
+ssh-copy-id -p 22 -i .ssh/id_rsa.pub 192.168.178.41
+ssh-copy-id -i .ssh/id_rsa.pub 192.168.178.41
+ssh-copy-id user@192.168.178.41
+ssh  user@192.168.178.41
+ssh-copy-id user@192.168.178.41
+ssh  user@192.168.178.41
+ssh-copy-id user@192.168.178.41
+ssh-copy-id root@192.168.178.41
+ssh  root@192.168.178.41
+clear
+ls
+ssh  root@192.168.178.41
+ssh  root@192.168.178.41
+clear
+ls
+ssh  bruce@192.168.178.41
+ls
+clear
+ssh root@192.168.178.41
+clear
+ll
+rm -rf destreamer
+sl
+ll
+clear
+ll
+sudo omnisweepere
+sudo omnisweeper
+sudo /Applications/OmniDiskSweeper.app/Contents/MacOS/OmniDiskSweeper
+sudo /Applications/OmniDiskSweeper.app/Contents/MacOS/OmniDiskSweeper
+brew install --cask flameshot
+brew uninstall --cask flameshot
+brew install --cask lightshot
+clear
+ls
+brew install --cask flameshot
+clear
+cd Applications
+ls
+cd /Applications
+ls
+brew uninstall --cask flameshot
+clear
+brew install --cask osxfuse
+fuse
+ls
+ssh bruce@192.168.178.41
+cd
+ls
+ll
+clear
+clear
+lls
+ll
+clear
+cd Downloads
+ls
+cd
+cd Downloads
+ls
+rm katana-1.4.4-mac.zip mpv_config_files.zip Gyazo-3.8.1.dmg ubuntu-20.04.2.0-desktop-amd64.iso
+ls
+clear
+mac-cleanup -h
+mac-cleanup
+cd
+clear
+brew tap fwartner/mac-cleanup
+clelar
+clear
+brew tap fwartner/mac-cleanup
+brew install mac-cleanup
+mac-cleanup -h
+mac-cleanup 
+ls
+brew install mac-cleanup
+clear
+mac-cleanup -h
+cleanup
+cleanup -h
+cleanup -h
+mac-cleanup -h
+mac-cleanup -h
+brew install mac-cleanup
+brew reinstall mac-cleanup
+mac-cleanup -h
+ls
+ll
+clear
+ls
+v clean.sh
+chmod +x clean.sh
+./clean.sh
+clear
+clear
+ls
+clear
+ll
+clear
+mv clean.sh .config
+ls
+clea
+xcrun simctl delete unavailable
+brew install onyx
+cd ~/Library/Caches
+ls
+ll
+sudo /Applications/OmniDiskSweeper.app/Contents/MacOS/OmniDiskSweeper 
+clear
+clear
+ls
+ll
+clear
+ls
+ls
+clear
+ls
+ls
+clear
+ls
+clea
+r
+clea
+ls
+ll
+ls
+ll
+cd projopencv/
+ls
+clear
+exir
+exit
+sl
+ls
+ls
+defaults write com.apple.spotlight orderedItems -array \\
+  '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+  '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+  '{"enabled" = 0;"name" = "DIRECTORIES";}' \\
+  '{"enabled" = 0;"name" = "PDF";}' \\
+  '{"enabled" = 0;"name" = "FONTS";}' \\
+  '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+  '{"enabled" = 0;"name" = "MESSAGES";}' \\
+  '{"enabled" = 0;"name" = "CONTACT";}' \\
+  '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+  '{"enabled" = 0;"name" = "IMAGES";}' \\
+  '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+  '{"enabled" = 0;"name" = "MUSIC";}' \\
+  '{"enabled" = 0;"name" = "MOVIES";}' \\
+  '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+  '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+  '{"enabled" = 0;"name" = "SOURCE";}' \\
+  '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+  '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+  '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+  '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+  '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+  '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+clear
+cd Documents
+killall mds > /dev/null 2>&1
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/nule
+sudo mdutil -E / > /dev/null
+clear
+defaults write com.apple.ActivityMonitor OpenMainWindow -bool true
+defaults write com.apple.ActivityMonitor IconType -int 5
+defaults write com.apple.ActivityMonitor ShowCategory -int 0
+defaults write com.apple.ActivityMonitor SortColumn -string "CPUUsage"\
+defaults write com.apple.ActivityMonitor SortDirection -int 0
+defaults write com.apple.ActivityMonitor SortColumn -string "CPUUsage"\
+defaults write com.apple.ActivityMonitor SortDirection -int 0
+sudo pmset -a hibernatemode 0
+sudo rm -f /private/var/vm/sleepimage
+sudo touch /private/var/vm/sleepimage
+sudo chflags uchg /private/var/vm/sleepimage
+sudo systemsetup -setrestartfreeze on
+sudo defaults write /Library/Preferences/com.apple.loginwindow AdminHostInfo HostName\
+
+defaults write com.apple.helpviewer DevMode -bool true
+/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user\
+
+ls
+clear
+wget https://raw.githubusercontent.com/delucap/Docker_MPI/main/Dockerfile
+ls
+clear
+docker run -it -d -t cpd_mpi:latest
+docker ps 
+docker start -i 08dc3f477726a2d2
+ls
+clear
+ll
+docker start -i 08dc3f477726a2d2
+docker start -i 08dc3f477726a2d2
+docker start -i 08dc3f477726a2d2
+ls
+docker start -i 08dc3f477726a2d2
+docker start -i 08dc3f477726a2d2
+ls
+clear
+docker ps
+docker ps
+docker ps -q
+ls
+ll
+clea
+ls
+brew install wget
+clear
+ls
+wget https://raw.githubusercontent.com/delucap/Docker_MPI/main/Dockerfile
+ls
+docker build -t cpd_mpi .
+docker run -it -d -t cpd_mpi:lastest
+docker run -it -d -t cpd_mpi:latest
+docker ps
+docker start -i d817829bf05e1041db110d28ea8324c94af144ce64ab7343e547ae83df99e8e4
+ls
+docker start -i d817829bf05e104
+ls
+docker start -i d817829bf05e104
+docker start -i d817829bf05e104
+cd
+ls
+docker start -i d817829bf05e104
+docker stop d817829bf05e10
+docker image ls
+docker kill $(docker ps -q)
+proc
+proc
+clear
+ls
+prc
+proc
+poc
+proc
+ls
+clear
+ls
+ll
+proc
+clear
+ll
+clear
+ls
+cd projopencv
+l
+ls
+cd Color_op
+ls
+make
+exit
+proc
+clear
+ls
+cd
+ls
+exit
+ls
+ll
+clear
+cd
+ls
+proc
+clear
+exit
+proc
+clear
+ls
+ll
+clear
+ls
+cd
+ls
+clear
+exit
+docker exec -it 08dc3f477726a2d2a004dd598a4e579c8559264d350a26c41698856efca60bb3 /bin/sh
+ls
+clear
+ls
+ll
+clear
+cd .config
+ls
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git\
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc\
+
+ls
+cd
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd
+source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh\
+
+cd .config
+ls
+source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh\
+
+ls
+clear
+ll
+cd
+l
+lll
+ll
+clear
+cd
+sl
+ls
+clear
+cd .config
+ls
+git clone https://github.com/denysdovhan/spaceship-prompt.git --depth=1
+ls
+cd spaceship-prompt/
+ls
+echo $fpath
+fpath=( "${ZDOTDIR:-$HOME}/.zfunctions" $fpath )\
+
+$ ln -sf "$PWD/spaceship.zsh" "${ZDOTDIR:-$HOME}/.zfunctions/prompt_spaceship_setup"\
+
+ln -sf "$PWD/spaceship.zsh" "${ZDOTDIR:-$HOME}/.zfunctions/prompt_spaceship_setup"
+ls
+echo $fpath
+ln -sf "$PWD/spaceship.zsh" "${ZDOTDIR:-$HOME}/.zfunctions/prompt_spaceship_setup"
+cd ..
+cd zsh
+ls
+ll
+mkdir .zfunctions
+cd .zfunctions
+cd .. 
+ls
+ll
+cd ..
+ls
+cd spaceship-prompt
+sl
+ls
+ln -sf "$PWD/spaceship.zsh" "${ZDOTDIR:-$HOME}/.zfunctions/prompt_spaceship_setup"
+clear
+ls
+cd
+ls
+cd .config/zsh/
+ls
+ll
+v .zshrc
+source .zshrc
+clear
+clear
+cd
+sl
+ls
+ls
+ll
+clear
+ls
+cd
+ls
+cd ..
+ls
+cd zsh
+ls
+ll
+ls
+ll
+cd .zfunctions
+ls
+v prompt_spaceship_setup
+prompt spaceship
+prompt s-l
+prompt -l
+cd
+ls
+v .zshenv
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+source .zshrc
+ls
+ls
+l
+ll
+cd
+ll
+clear
+ll
+ls
+clear
+cd Downloads
+ll
+ls
+clea
+r
+clea
+ll
+clear
+v .zshrc
+cd .config
+cd
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+source .zshrc
+clear
+lls
+ll
+clear
+cd
+ls
+cd
+ls
+ll
+cd .config
+ls
+rm -rf spaceship-prompt
+ls
+clear
+cd
+ls
+hostname -i\\
+clear
+ls
+hostname -i\\
+
+hostname -i
+ls
+lcd
+ls
+hostname -i
+cd
+ifconfig | grep 'inet addr:'
+ifconfig
+ifconfig | grep 'inet addr:'| grep -v '127.0.0.1' | tail -1 | cut -d: -f2 | awk '{ print $1}'
+ifconfig | grep inet
+clear
+ifconfig
+ipconfig getifaddr en0
+clear
+l
+cd .config
+ls
+cd prompt
+ls
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+ls
+clear
+v Ps1
+source Ps1
+ls
+clear
+ll
+cd
+ls
+ll
+clear
+ls
+cd Downloads
+ls
+lll
+ll
+clear
+cd Document
+cd
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+rm -rf .zfunctions
+ls
+ll
+v .zshrc
+cd
+ls
+clear
+ll
+clear
+cd Downloads
+ls
+v .zshrc
+cd 
+ls
+cd .config
+ls
+cd prompt
+ls
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+ls
+v Ps1
+source Ps1
+sl
+ls
+clear
+cd Dow
+cd cd
+cd
+ls
+clear
+l
+ll
+clear
+ll
+ls
+clear
+ls
+ll
+clear
+ll
+cd
+cd
+ls
+cd Downloads
+ls
+rm Docker.dmg
+ls
+clear
+tmux
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+rm -f .p10k.zsh
+ls
+clear
+source .zhsrc
+ls
+ll
+v .zshrc
+source .zhsr
+source .zshrc
+sl
+ls
+clear
+ll
+ls
+cd
+ls
+cd projopencv
+ls
+lll
+ll
+clear
+cd
+cd .config
+ls
+rm -rf powerlevel10k
+ls
+clear
+ll
+mkdir docker
+ls
+cd docker
+ls
+ll
+ls
+ll
+v .docker-prompt
+v .docker-prompt
+ll
+cd
+ls
+clear
+ls
+ls
+ll
+clear
+ll
+ll
+clear
+tmux
+ls
+tmux\\
+
+/Applications/Docker.app/Contents/MacOS/Docker ; exit;
+tmux
+cd .config/aliases
+ls
+v aliases
+source aliases
+clear
+clear
+cd
+ls
+clear
+ll
+rm default.profraw
+ls
+clear
+sl
+ll
+clear
+ls
+ls
+clear
+ls
+ll
+cd .docker
+ls
+echo export DOCKER_CONFIG=~/.config/.docker >> 
+echo export DOCKER_CONFIG=~/.config/.docker >> ~/.config/zsh/.zshrc
+ls
+clear
+ll
+cd
+ls
+ll
+cd .config
+ls
+cd docker
+s
+ll
+ll
+cd .
+ll
+cd ..
+ll
+cd zsh
+v .zshrc
+cd
+ls
+open -a Docker
+ll
+cd .config
+ls
+ll
+docker --version
+cd
+ls
+ll
+mv .docker .config
+ls
+ll
+cd .config
+ls
+ll
+clear
+ll
+clear
+cd
+sl
+docker --version
+ls
+clear
+docker ps
+docker image ls
+clear

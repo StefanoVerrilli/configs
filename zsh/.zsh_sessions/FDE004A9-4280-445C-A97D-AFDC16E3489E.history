@@ -1,0 +1,1015 @@
+ls
+cd prompt
+ls
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+ls
+clear
+v Ps1
+source Ps1
+ls
+clear
+ll
+cd
+ls
+ll
+clear
+ls
+cd Downloads
+ls
+lll
+ll
+clear
+cd Document
+cd
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+rm -rf .zfunctions
+ls
+ll
+v .zshrc
+cd
+ls
+clear
+ll
+clear
+cd Downloads
+ls
+v .zshrc
+cd 
+ls
+cd .config
+ls
+cd prompt
+ls
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+v Ps1
+source Ps1
+ls
+v Ps1
+source Ps1
+sl
+ls
+clear
+cd Dow
+cd cd
+cd
+ls
+clear
+l
+ll
+clear
+ll
+ls
+clear
+ls
+ll
+clear
+ll
+cd
+cd
+ls
+cd Downloads
+ls
+rm Docker.dmg
+ls
+clear
+tmux
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+rm -f .p10k.zsh
+ls
+clear
+source .zhsrc
+ls
+ll
+v .zshrc
+source .zhsr
+source .zshrc
+sl
+ls
+clear
+ll
+ls
+cd
+ls
+cd projopencv
+ls
+lll
+ll
+clear
+cd
+cd .config
+ls
+rm -rf powerlevel10k
+ls
+clear
+ll
+mkdir docker
+ls
+cd docker
+ls
+ll
+ls
+ll
+v .docker-prompt
+v .docker-prompt
+ll
+cd
+ls
+clear
+ls
+ls
+ll
+clear
+ll
+ll
+clear
+tmux
+ls
+tmux\\
+
+/Applications/Docker.app/Contents/MacOS/Docker ; exit;
+tmux
+cd .config/aliases
+ls
+v aliases
+source aliases
+clear
+clear
+cd
+ls
+clear
+ll
+rm default.profraw
+ls
+clear
+sl
+ll
+clear
+ls
+ls
+clear
+ls
+ll
+cd .docker
+ls
+echo export DOCKER_CONFIG=~/.config/.docker >> 
+echo export DOCKER_CONFIG=~/.config/.docker >> ~/.config/zsh/.zshrc
+ls
+clear
+ll
+cd
+ls
+ll
+cd .config
+ls
+cd docker
+s
+ll
+ll
+cd .
+ll
+cd ..
+ll
+cd zsh
+v .zshrc
+cd
+ls
+open -a Docker
+ll
+cd .config
+ls
+ll
+docker --version
+cd
+ls
+ll
+mv .docker .config
+ls
+ll
+cd .config
+ls
+ll
+clear
+ll
+clear
+cd
+sl
+docker --version
+ls
+clear
+docker ps
+docker image ls
+clear
+ls
+docker image ls
+clear
+ls
+ll
+source .zshrc
+cd .config/zsh
+l
+ll
+source .zshrc
+sl
+sl
+export DOCKER_CONFIG=$HOME/.config/.docker > ~/.config/zsh/.zshrc
+ls
+ls
+ll
+v .zshrc
+ll
+v .zshrc
+ls
+clear
+ls
+sl
+ll
+ll
+ls
+ls -la
+cd .config
+ls
+cd zsh
+ls
+ll
+ll
+ls -la
+v .zcompdump
+vim .zcompdump
+vim .zhistory
+vim .zsessions
+open .zshrc
+open .
+ls
+clear
+ll
+ls
+ls -la
+vim .zshrc
+ls
+vim .zcompdump-arm-5.8
+vim .zsh_history
+cd
+ls
+ll
+ls -la
+cd .config
+ls
+cd zsh
+ls
+vim .zshrc
+source .zshrc
+ls
+ll
+ll
+clear
+cd ..
+ll
+ls -la
+cd zsh
+ls
+ll
+ls
+ll
+ls -la
+v .zshrc
+vim .zshrc
+source .zshrc
+ls
+ll
+clear
+ll
+clear
+cd ..
+ls
+cd zsh
+ls
+ll
+echo $fpath
+v .zshrc
+source .zshrc
+ls
+ll
+v .zshrc
+source .zshrc
+v .zshrc
+source .zshrc
+v .zshrc
+source .zshrc
+ll
+cd ..
+ls
+cd zsh
+ls
+v .zshrc
+source .zshrc
+v .zshrc
+cd ..
+ls
+cd zsh-syntax-highlighting
+ls
+cd
+ls
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+source .zshrc
+ls
+clear
+v .zshrc
+source .zshrc
+v .zshrc
+source .zshrc
+ls
+ll
+clear
+ll
+cd
+ll
+cd Downloads
+cd
+cd .config
+sl
+ll
+cd zshr
+cd zsh
+ls
+ll
+v .zshrc
+source .zshrc
+ls
+cd
+ls
+cd
+Desktop
+ls
+cd
+cd .config/zsh
+ls
+ll
+v .zshrc
+source .zshrc
+ls
+lll
+sl
+ll
+clear
+ls
+cd .config/zsh
+ls
+v .zshrc
+source .zshrc
+ls
+cd
+ll
+clear
+cd
+ls
+l
+ll\\ 
+cd
+sl
+clear
+ls
+zsh
+ls
+ll
+clear
+cd
+cd projopencv
+ls
+clear
+ll
+cd
+cd .config
+sl
+ll
+cd zsh
+ls
+ll
+git init
+git add *
+git add *
+*.*
+git add .
+git status
+clear
+ls
+ll
+git reset .zsh_sessions
+ls
+git status
+git commit -m "dots of zsh"
+git config --global batman.name "bruce"
+git commit -m "dots of zsh"
+git config --global batman.email "stefanoverrilli00@gmail.com"
+ls
+git commit -m "dots of zsh"
+git config --global user.email "stefanoverrilli00@gmail.com""\
+
+git config --global user.email "stefanoverrilli00@gmail.com"\
+
+git commit -m "dots of zsh"
+git remote add origin https://github.com/StefanoVerrilli/.dots.git
+git push -u origin main
+git branch -M main
+git push -u origin main
+cd
+echo export DOCKER_CONFIG=$HOME/.config/.docker > ~/.config/zsh/.zshrc
+ls
+cd .config/zsh
+ls
+ll
+v .zshrc
+git pull 
+ls
+ll
+git pull origin main
+ls
+ll
+v .zshrc
+git fetch
+sl
+ll
+v .zshrc
+git checkout origin/main -- .zshrc
+ls
+ll
+v .zshrc
+source .zshrc
+ls
+cd
+sl
+ll
+rm -rf .zsh_sessions
+rm .zcompdump-arm-5.8
+ls
+ll
+cd .config
+ls
+ll
+clear
+cd
+ls
+ll
+rm -rf .docker
+ls
+clear
+ll
+clear
+open -a Docker 
+ll
+cd .config
+ls
+cd Docker
+ls
+ll
+cd
+ls
+clear
+ls
+clear
+ls
+ll
+clear
+lsl
+ll
+cd .config
+ls
+cd prompt
+ls
+v Ps1
+source Ps1
+ls
+clear
+ls
+clear
+ls
+cd projopencv
+ls
+cd Color_op
+ls\\
+
+./Sharpening_Smoothing_RGB ../lena.png
+cd
+ls
+cd projopencv
+ls
+cd Color_op
+ls
+./Sharpening_Smoothing_RGB ../monkey1.png
+ls
+exit
+zsh --version
+ls
+clear
+ls
+cd
+ll
+rm .oracle_jre_usage
+ls
+rm -rf .oracle_jre_usage
+ls
+ll
+rm -rf .android
+sl
+ls
+ll
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/.config/powerlevel10k
+ls
+cd .config
+ls
+cho 'source ~/.config/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+echo 'source ~/.config/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+ls
+cd prompt
+ls
+cd Ps
+cd ..
+cd zsh
+ls
+v .zshrc
+cd
+ls
+ll
+rm .zshrc
+l
+ll
+rm .zsh_history
+clear
+ls
+echo 'source ~/.config/powerlevel10k/powerlevel10k.zsh-theme' >>~/.config/zsh/.zshrc
+ls
+cd .config/zsh
+ls
+proc
+exit
+tmux
+v .zshr
+v .zshrc
+v .zshenv 
+clear
+tmux
+sl
+ls
+clear
+ls
+ll
+clear
+ll
+cd
+ll
+cd -
+cd -
+cd -
+cd /
+ls
+cd home
+ls
+ll
+cd ..
+ls
+cd Library
+ls
+cd ..
+ll
+cd
+ll
+v .zshenv
+clear
+ls
+ll
+open .
+cd .config/
+ll
+v .gitignore
+cd zsh
+ls
+ll
+v .gitignore
+git status
+git add .zshrc
+ls
+ll
+git commit -m "zsh"
+git push origin main 
+cd ..
+ls
+cd aliases
+ls
+cd ..
+v .gitignore
+v .gitignore
+v .gitignore
+rm -rf flameshot
+ls -s ~/.zshenv .
+ls -s ~/.zshenv ./.zshenv
+ls
+ll
+ln -s ~/.zshenv ./.zshenv
+ls
+ll
+v .gitignore
+cd zsh
+ls
+ll
+rm -rf .git
+ls
+ll
+clear
+ls
+l
+ll
+rm .gitignore
+cd
+cd .config/
+ls
+v .gitignore
+cd prompt
+ls
+cd ..
+cd tmux
+ls
+ll
+cd ..
+cd vim
+ls
+ll
+cd .vim
+ls
+cd ..
+cd ..
+cd prompt
+ls
+cd ..
+ls
+git init
+git status
+git add .
+git status
+v .gitignore
+git status
+git commit -m "first"
+git status
+git add .
+git status
+v .gitignore
+source .gitignore
+ls
+git 
+git status
+clear
+v .gitignore
+git status
+v .gitignore
+git stauts
+git status
+git status
+v .gitignore
+git status
+v .gitignore
+git status
+git add .
+git status
+git status
+v .gitignore
+git status
+git stash
+ls
+clear
+git stauts
+git status
+ls
+git add .
+ls
+git stauts
+git status
+v .gitignore
+ls
+cd vim
+ls
+ll
+cd .vim
+ls
+cd
+ls
+cd .config
+ls
+v .gitignore
+git add .
+ls
+git status
+ls
+v .gitignore
+git add .
+git stauts
+git status
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+git status
+ls
+clear
+cd .config
+ls
+git status
+git add .
+git add
+git add .
+ls
+git status
+cd .config
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+ls
+git status
+git remote add origin https://github.com/StefanoVerrilli/configs.git
+git add .
+git status
+v .gitignore
+git add aliases
+git status
+git add aliases/aliases 
+git status
+git add zsh/.zshrc
+git add -f zsh/.zshrc
+git commit  -m "first commit"
+git push -u origin master
+v .gitignore
+ls
+mv ~/Downloads/vim-20210516T194932Z-001.zip .
+mv ~/Downloads/tmux-20210516T194925Z-001.zip .
+ls
+unzip tmux-20210516T194925Z-001.zip
+unzip vim-20210516T194932Z-001.zip
+y
+y
+y
+clear
+ls
+rm vim-20210516T194932Z-001.zip
+rm tmux-20210516T194925Z-001.zip
+ls
+ll
+v
+vim
+v .gitignore
+clear
+git add vim/.vimrc
+git -f add vim/.vimrc
+git add -f vim/.vimrc
+git add tmux/.tmux.conf
+ls
+clear
+ll
+git commit -m "second commit"
+git push origin master 
+ls
+clear
+l
+ls
+clear
+cd
+ll
+cd .config
+git add ../.zshenv
+cp ../.zshenv .
+cp ../.zshenv 
+cp ../.zshenv .zshenv
+ln ../.zshenv .zshenv
+ls
+ll
+rm .zshenv
+ln ../.zshenv .zshenv
+ls
+v .zshenv
+git add .zshenv
+git commit -m "added .zshenv"
+git push origin master 
+ifconfig
+ifconfigclear
+clear
+ssh bruce@tcp://4.tcp.ngrok.io:12694
+ssh bruce@4.tcp.ngrok.io:12694
+ssh bruce@4.tcp.ngrok.io -p 12694
+clear
+ll
+clear
+ls
+clear
+ll
+clear
+ll
+cd .vim
+ls
+ll
+cd
+rm -rf .viminfo
+rm -rf .vim
+ls
+clear
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd
+ls
+v .zshenv
+clear
+cd .config/
+ls
+cd aliases
+ls
+v aliases
+clear
+cd
+shutdown now
+cd .config/aliases
+ks
+v aliases
+source alias
+source aliases
+clear
+cd
+ls
+shutdown
+sudo shutdown -r now
+clear
+ll
+clear
+cd
+ls
+clear
+ll
+clear
+ls
+clear
+ll
+v .zshenv
+ssh bruce@4.tcp.ngrok.io -p 12694
+ssh bruce@8.tcp.ngrok.io -p 13353
+ssh bruce@8.tcp.ngrok.io -p 13353
+clear
+docker pull debian
+docker pull debian
+docker pull debian
+docker pull debian
+ls
+docker run debian
+docker pull jgoerzen/debian-base-whatever
+sudo docker pull jgoerzen/debian-base-whatever
+ssh bruce@0.tcp.eu.ngrok.io -p 19802
+ssh bruce@0.tcp.eu.ngrok.io -p 19802
+ls
+clear
+ll
+clear
+ssh -R 80:localhost:8080 localhost.run
+clear
+git clone https://github.com/OscarAkaElvis/zsh-parrot-theme.git
+ls
+ll
+cd zsh-parrot-theme
+ls
+chmod +x install.zsh
+./install.zsh
+clear
+cd
+cd .config
+ls
+cd prompt
+ls
+ll
+v Ps1
+mv Ps1 ~
+v Ps1
+source Ps1
+ls
+clear
+ll
+ll
+clear
+ll
+cd .config
+ls
+cd prompt
+ls
+ll
+v Ps1
+mv ~/Ps1 .
+ls
+ll
+cd ..
+pwd
+clear
+cd
+ls
+clear
+ll
+./Sharpening_Smoothing_RGB ../lena.png
+ls
+clear
+clear
+ll
+clear
+cd
+ll
+rm -rf zsh-parrot-theme
+clear
+ll
+clear
+ls
+clear
+ll
+clear
+tmux
+v .zshenv
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd ..
+cd .docker
+ll
+cd ..
+ls
+clear
+ll
+htop
+clear
+cd
+clear
+ls
+v instl.sh
+chmod +x instl.sh
+./instl.sh
+ls
+ll
+sudo \
+	
+clear
+sudo ./instl.sh
+clear
+clear
+ll
+clear
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+ls
+v .zshenv
+vim .zshenv
+cd .config
+ll
+ll
+ls -la
+cd zsh
+ls
+ll
+ls -la
+cd .zshrc
+vim .zshrc
+source .zshrc
+clear
+cd
+clear

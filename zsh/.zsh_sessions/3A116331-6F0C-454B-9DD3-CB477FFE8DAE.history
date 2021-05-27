@@ -1,0 +1,1000 @@
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+cd projopencv
+ls
+cd Harris
+ls
+./Harris ../harris2.png
+cd ..
+ls
+cd Canny
+ls
+./Canny ../lena.png
+cd ...
+cd ..
+ls
+open lena.png
+ls
+cd projopencv
+ls
+git add Harris Canny
+ls
+git stauts
+git status
+clear
+git commit -m "Added Canny and Harris"
+git config --global user.email "stefanoverrilli00@gmail.com"
+git commit -m "Added Canny and Harris"
+git config --global user.email "batman@user1"
+git config  user.email "batman@user1"
+git config --global user.email "stefanoverrilli00@gmail.com"
+unset GIT_CONFIG
+git config --global list
+git config --global --list
+git config --global user.email "stefanoverrilli00@gmail.com"
+git commit -m "Added Canny and Harris"
+git push origin master 
+cd Canny
+ls
+./Canny ../harris2.png
+cd ..
+cd Harris
+ls
+./Harris ../harris_image.png
+./Harris ../harris2.png
+make
+ls
+rm Harris.o
+make
+ls
+cd projopencv
+ls
+cd Segmentation
+ls
+cd ..
+cd Harris
+ls
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+ls
+make
+make
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+cd
+cd projopencv
+ls
+mv Screenshot\ 2021-05-22\ at\ 09.13.35.png road.png
+cd Canny
+ls
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+./Canny ../road.png
+make
+./Canny ../road.png
+cd
+cd projopencv
+ls
+mkdir Hough
+ls
+cd H
+cd Hough
+ls
+clear
+cp ../Canny/Makefile .
+ls
+v Makefile
+make
+make
+make
+make
+make
+./Hough_line ../harris2.png
+make
+./Hough_line ../harris2.png
+cd ../Canny
+ls
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../lena.png
+./Canny ../building.png
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+./Canny ../harris
+./Canny ../harris2.png
+./Canny ../harris
+make
+./Canny ../harris
+./Canny ../harris2.png
+./Canny ../harris
+make
+./Canny ../harris
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../building.png
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../building.png
+./Canny ../building.png
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd ..
+ls
+cd Hough/
+ls
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+ls
+cd ..
+ls
+cd Hough
+ls
+./Hough_line ../harris2.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+make
+make
+make
+make
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../road.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+clear
+l
+s
+ll
+cd ..
+mkdir prova
+ls
+cd prova
+v prov.cpp
+cp ../Hough/Makefile .
+ls
+v Makefile
+clear
+ll
+make
+make
+make
+./prov ../building.png
+./prov ../building.png
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+ls
+rm prov.o
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+make
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+make
+ls
+rm prov.o
+make
+./prov ../building.png
+make
+./prov ../building.png
+./prov ../road.png
+clear
+ll
+cd ..
+cd Canny
+ls
+./Canny ../building.png
+make
+./Canny ../building.png
+maje
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd projopencv
+ls
+cd Hough
+./Hough_line ../building.png
+cd ..
+rm -rf prova
+l
+ls
+clear
+ll
+clear
+clear
+ll
+mv Debian\ ARM.utm ../Downloads
+ls
+clear
+ll
+mv debian-10.4-arm64-utm.zip ../Downloads
+ls
+clear
+cd Hough
+ls
+open ../road.png
+./Hough_line ../road.png
+git clone https://github.com/qemu/qemu
+clear
+ll
+mkdir builds
+cd builds
+ls
+git clone https://github.com/qemu/qemu
+cd qemu
+git checkout v5.2.0
+curl https://patchwork.kernel.org/series/418581/mbox/ | git am --exclude=MAINTAINERS
+brew install libffi gettext pkg-config autoconf automake pixman
+cd ..
+cd
+rm -rf builds
+clear
+ll
+ls
+clea
+clear
+ll
+cd projopencv
+ls
+clear
+ll
+git add Hough
+git commit -m "Hough for line identification added"
+clear
+git push origin master
+clear
+cd projopencv
+ls
+cd H
+cd Hough
+ls
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+cd Hough_circle
+ls
+cp ../Makefile .
+ls
+v Makefile
+make
+make
+make
+make
+./Hough_circle ../../building.png
+make
+make
+make
+make
+cd ..
+make
+make
+./Hough_line ../building.png
+cd Hough_circle
+make
+make
+./Hough_circle ../../building.png
+./Hough_circle ../coin-detection.jpg
+./Hough_circle ../coin-detection.png
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+rm Hough_circle.o
+make
+rm Hough_circle.o
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+make
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../../opencvlogo.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+make
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+clear
+cd ..
+ls
+make
+./Hough_line ../building.png
+make
+cd Hough_circle
+ls
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+ls
+./Hough_circle ../coins1.png
+make
+./Hough_circle ../coins1.png
+./Hough_circle ../coins1.pngsu
+clear
+cd
+cd projopencv
+ls
+cd Canny
+s
+ls
+./Canny ../building.png
+make
+make
+./Canny ../building.png
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+clear
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd ../Hough/Hough_circle
+ls
+make
+./Hough_circle ../coins1.png
+cd .
+cd ..
+ls
+make
+./Hough_line coins1.png
+./Hough_line coins1.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+cd ../Hough
+ls
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+clear
+ll
+cd projopencv
+ls
+cd Hough
+ls
+cd Hough_circle
+lls
+ls
+./Hough_circle ../coins1.png
+cd ..
+ls
+./Hough_line ../road.png
+./Hough_line ../building.png 
+make
+./Hough_line ../building.png 
+make
+./Hough_line ../building.png 
+make
+./Hough_line ../building.png 
+make
+./Hough_line ../building.png 
+cd ..
+cd Canny
+ls
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd projopencv
+ls
+mkdir Sogliatura
+ls
+cd So
+cd Sogliatura
+ls
+clear
+ll
+/Applications/Sublime\ Text.app/Contents/MacOS/Sublime\ Text
+/Applications/Sublime\ Text.app/Contents/MacOS/Sublime\ Text .
+/Applications/Alfred\ 4.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Resources/reindexdel.sh ; exit;
+ls
+clear
+l
+l
+ll
+clear
+brew install alfred
+clear
+alfred
+cd projopencv
+ls
+cd Sogliatura
+ls
+cp ../Hough/Makefile
+cp ../Hough/Makefile .
+v Makefile
+clear
+ll
+clear
+maek
+make
+ls
+v Makefile
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./Otsu_op ../building.png
+make
+make
+make
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+make
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+make
+make
+./Otsu_op ../building.png
+./Otsu_op ../building.png
+make
+make
+make
+make
+./Otsu_op ../building.png
+make
+make
+./Otsu_op ../building.png
+make
+make
+make
+make
+make
+make
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+make
+./Otsu_op ../building.png
+brew uninstall alfred
+clear
+ls
+clear
+ll
+clear
+ll
+clear
+brew cleanup
+brew update
+brew cleanup
+clear
+ll
+clear
+ll
+clear
+sudo netstat -tulpn 
+sudo netstat -tulpn 
+sudo netstat -tulpn
+sudo netstat 
+sudo netstat -rsg
+sudo netstat -rsg
+sudo netstat -s
+sudo netstat -g
+sudo lsof -iTCP -sTCP:LISTEN -n -P
+sudo lsof -iTCP -sTCP:LISTEN -n -P 22
+sudo lsof -iTCP -sTCP:LISTEN -n 2
+sudo lsof -iTCP -sTCP:LISTEN 
+sudo lsof -i -P | grep LISTEN
+sudo lsof -i4TCP:22 -P | grep LISTEN
+sudo lsof -i4TCP:8080 -P | grep LISTEN
+sudo lsof -i4TCP -P | grep LISTEN
+sudo lsof -i
+sudo lsof -i -nP
+sudo lsof -i tcp -nP
+cd .config/
+ls
+ls
+cd zsh
+ls
+ls
+ll
+cd ..
+cd prompt
+ls
+v Ps1
+source Ps1
+clear
+ls
+cd projopencv
+ls
+ll
+clear
+cd projopencv
+ls
+clear
+clear
+cd
+ls
+git config bash.showDirtyState false
+git gc
+git
+clear
+cd projopencv
+zsh -vx
+clear
+s
+ls
+cd .config/zsh/
+v .zshrc
+source .zshrc
+ls
+clear
+ll
+sl
+cd projopencv
+l
+ll
+clear
+ll
+clear
+cd
+ls
+cd .config/zsh
+v .zshrc
+source .zshrc
+ls
+ll
+clear
+ls
+cd projopencv
+ls
+cd
+clear
+ll
+clear
+cd projopencv
+git branch
+git switch master
+git switch main
+clear
+git log
+clear
+l
+ll
+clear
+cd
+ls
+cd Documents
+rm butter.png butter.jpg 
+clear
+ls
+clear
+ll
+cd projopencv
+ls
+ll
+clear
+cd /Applications/Utilities
+sudo nvram AutoBoot=%00
+ls
+clear
+ll
+clear
+cd /Applications/Utilities
+sudo nvram AutoBoot=%03
+ls
+clear
+sl
+ls
+cd projopencv
+ls
+git add Hough
+git commit -m "Hough update"
+git push origin master
+v .gitignore
+git add .
+git status
+v .gitignore
+git status
+git add .
+git status
+v .gitignore
+ls
+clear
+cd projopencv
+ls
+cd Canny
+ls
+./Canny ../building.png
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+./Canny ../building.png
+make
+make
+make
+./Canny ../building.png
+which $SHELL
+clear
+cd .config/scripts
+ls
+v scripts.zsh
+clear
+cd
+clear
+clear

@@ -1,0 +1,1065 @@
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/null
+sudo defaults write /.Spotlight-V100/VolumeConfiguration Exclusions -array "/Volumes"
+clear
+  '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "FONTS";}' \\
+    '{"enabled" = 1;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 1;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+sl
+ll
+proc
+clear
+ll
+rm instl.sh 
+ls
+clear
+ll
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 1;"name" = "FONTS";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "FONTS";}' \\
+    '{"enabled" = 1;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 1;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+clear
+killall mds > /dev/null 2>&1
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/null
+ls
+ls
+clear
+ll
+clear
+ll
+clear
+lll
+ll
+clear
+ls
+ll
+which jdk
+rm -rf .oracle_jre_usage
+clear
+ll
+ls
+ll
+clear
+ll
+ll
+sl
+l
+ll
+cd .config
+ll
+subl
+cd .zs
+cd zsh
+l
+ll
+v .zshrc
+open .zshrc
+cd ..
+ls
+cd aliases
+ll
+open aliases
+open aliases
+cd ..
+cd prompt
+ls
+cd
+ll
+cd .config
+ls
+rm -rf aliases
+cd zsh
+ls
+ll
+source .zshrc
+sl
+clear
+cd
+ll
+clear
+ll
+cd
+lll
+ll
+ls
+ll
+cd .config
+ll
+cd prompt
+ls
+v Ps1
+clear
+l
+ll
+clear
+cd
+ls
+ll
+ls
+cd projopencv
+ls
+cd
+ll
+cd .config
+ls
+cd vim
+ls
+ll
+v .vimrc
+source .vimrc
+clear
+l
+cd
+ll
+rm .viminfo
+ls
+clear
+ll
+rm .docker
+rm -rf .docker
+ls
+clear
+v hi
+ls
+ll
+rm hi
+clear
+ll
+ll
+ls
+ll
+ll
+neofetch
+ls
+la
+proc
+clear
+df
+clear
+ll
+ls
+./Sharpening_Smoothing_RGB ../lena.png
+ls
+slc
+ls
+clear
+ls
+cd projopencv
+ls
+mkdir Segmentation
+ls
+cd Segmentation
+ls
+open LoG.cpp
+v LoG.cpp
+ls
+open LoG.cpp
+open .
+ls
+cp ../Makefile .
+ls
+v Makefile
+make
+clear
+ls
+cd projopencv/Segmentation
+ls
+make
+rm LoG.o
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+ls
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+make
+make
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+cd projopencv
+ls
+cd Segmentation
+ls
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../monkey1.png
+clear
+ll
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+clear
+./LoG ../monkey1.png
+clear
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+clear
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+shutdown
+shutdown now
+shutdown -r now
+shutdown -s now
+ls
+clear
+ll
+cd projopencv
+ls
+cd Segmentation
+ll
+./LoG ../monkey1.png
+ll
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+ls
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+ls
+v Harris.cpp
+clear
+mkdir Harris
+ls
+mv Harris.cpp Harris
+ls
+cd Harris
+ls
+cp ../Makefile .
+ls
+v Makefile
+make
+make
+make
+clear
+ll
+make
+ls
+cd ..
+ls
+mv Harris/* ../
+ls
+ll
+cd
+cd projopencv/Segmentation
+ls
+cd ..
+ls
+mkdir Harris
+ls
+mv Harris.cpp Harris
+ls
+cd Segmentation
+ls
+rm Harris
+cd Harris
+ls
+ll
+cd ..
+rm -rf Harris
+ls
+cleaer
+clear
+ll
+cd ..
+ls
+cd Harris
+ls
+ll
+clear
+ll
+mv ../Makefile .
+ls
+v Makefile
+clear
+make
+make
+make
+make
+make
+ls
+rm Harris.o
+make
+cd projopencv
+ls
+cd Harris
+ls
+make
+rm Harris.o
+make
+ls
+cp ../Color_op/Utility.hpp .
+ls
+make
+rm Harris.o
+ls
+make
+proc
+make
+make
+make
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+make
+ls
+rm Harris.o
+make
+make
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../harris_image.png
+./Harris Harris ../harris_image.png
+cd ..
+ls
+mv Screenshot\ 2021-05-21\ at\ 16.47.14.png harris2.png
+mv Harris
+ls
+cd Harris
+ls
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+ls
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+ls
+cd ..
+cd Canny
+ls
+cp ../Harris/Makefile .
+ls
+v Makefile
+clear
+make
+make
+make
+make
+make
+make
+make
+make
+clear
+l
+ll
+cp ../Harris/Utility.hpp ../
+ls
+ll
+cd
+cd projopencv
+ls
+cd Canny
+ls
+ll
+make
+make
+make
+make
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+cd projopencv
+ls
+cd Harris
+ls
+./Harris ../harris2.png
+cd ..
+ls
+cd Canny
+ls
+./Canny ../lena.png
+cd ...
+cd ..
+ls
+open lena.png
+ls
+cd projopencv
+ls
+git add Harris Canny
+ls
+git stauts
+git status
+clear
+git commit -m "Added Canny and Harris"
+git config --global user.email "stefanoverrilli00@gmail.com"
+git commit -m "Added Canny and Harris"
+git config --global user.email "batman@user1"
+git config  user.email "batman@user1"
+git config --global user.email "stefanoverrilli00@gmail.com"
+unset GIT_CONFIG
+git config --global list
+git config --global --list
+git config --global user.email "stefanoverrilli00@gmail.com"
+git commit -m "Added Canny and Harris"
+git push origin master 
+cd Canny
+ls
+./Canny ../harris2.png
+cd ..
+cd Harris
+ls
+./Harris ../harris_image.png
+./Harris ../harris2.png
+make
+ls
+rm Harris.o
+make
+ls
+cd projopencv
+ls
+cd Segmentation
+ls
+cd ..
+cd Harris
+ls
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+ls
+make
+make
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+cd
+cd projopencv
+ls
+mv Screenshot\ 2021-05-22\ at\ 09.13.35.png road.png
+cd Canny
+ls
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+make
+./Canny ../road.png
+./Canny ../road.png
+make
+./Canny ../road.png
+cd
+cd projopencv
+ls
+mkdir Hough
+ls
+cd H
+cd Hough
+ls
+clear
+cp ../Canny/Makefile .
+ls
+v Makefile
+make
+make
+make
+make
+make
+./Hough_line ../harris2.png
+make
+./Hough_line ../harris2.png
+cd ../Canny
+ls
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../lena.png
+./Canny ../building.png
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+./Canny ../harris
+./Canny ../harris2.png
+./Canny ../harris
+make
+./Canny ../harris
+./Canny ../harris2.png
+./Canny ../harris
+make
+./Canny ../harris
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../building.png
+./Canny ../harris2.png
+make
+./Canny ../harris2.png
+./Canny ../building.png
+./Canny ../building.png
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd ..
+ls
+cd Hough/
+ls
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+ls
+cd ..
+ls
+cd Hough
+ls
+./Hough_line ../harris2.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../building.png
+make
+make
+make
+make
+make
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../road.png
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+make
+./Hough_line ../road.png
+clear
+l
+s
+ll
+cd ..
+mkdir prova
+ls
+cd prova
+v prov.cpp
+cp ../Hough/Makefile .
+ls
+v Makefile
+clear
+ll
+make
+make
+make
+./prov ../building.png
+./prov ../building.png
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+ls
+rm prov.o
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+make
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+./prov ../building.png
+make
+make
+ls
+rm prov.o
+make
+./prov ../building.png
+make
+./prov ../building.png
+./prov ../road.png
+clear
+ll
+cd ..
+cd Canny
+ls
+./Canny ../building.png
+make
+./Canny ../building.png
+maje
+make
+./Canny ../building.png
+make
+./Canny ../building.png
+cd projopencv
+ls
+cd Hough
+./Hough_line ../building.png
+cd ..
+rm -rf prova
+l
+ls
+clear
+ll
+clear
+clear
+ll
+mv Debian\ ARM.utm ../Downloads
+ls
+clear
+ll
+mv debian-10.4-arm64-utm.zip ../Downloads
+ls
+clear
+cd Hough
+ls
+open ../road.png
+./Hough_line ../road.png
+git clone https://github.com/qemu/qemu
+clear
+ll
+mkdir builds
+cd builds
+ls
+git clone https://github.com/qemu/qemu
+cd qemu
+git checkout v5.2.0
+curl https://patchwork.kernel.org/series/418581/mbox/ | git am --exclude=MAINTAINERS
+brew install libffi gettext pkg-config autoconf automake pixman
+cd ..
+cd
+rm -rf builds
+clear
+ll
+ls
+clea
+clear
+ll
+cd projopencv
+ls
+clear
+ll
+git add Hough
+git commit -m "Hough for line identification added"
+clear
+git push origin master
+clear
+cd ../Hough
+ls
+./Hough_line ../building.png
+make
+./Hough_line ../building.png
+make

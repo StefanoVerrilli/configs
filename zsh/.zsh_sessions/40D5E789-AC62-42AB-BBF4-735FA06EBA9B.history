@@ -1,0 +1,1129 @@
+git push origin main 
+cd ..
+ls
+cd aliases
+ls
+cd ..
+v .gitignore
+v .gitignore
+v .gitignore
+rm -rf flameshot
+ls -s ~/.zshenv .
+ls -s ~/.zshenv ./.zshenv
+ls
+ll
+ln -s ~/.zshenv ./.zshenv
+ls
+ll
+v .gitignore
+cd zsh
+ls
+ll
+rm -rf .git
+ls
+ll
+clear
+ls
+l
+ll
+rm .gitignore
+cd
+cd .config/
+ls
+v .gitignore
+cd prompt
+ls
+cd ..
+cd tmux
+ls
+ll
+cd ..
+cd vim
+ls
+ll
+cd .vim
+ls
+cd ..
+cd ..
+cd prompt
+ls
+cd ..
+ls
+git init
+git status
+git add .
+git status
+v .gitignore
+git status
+git commit -m "first"
+git status
+git add .
+git status
+v .gitignore
+source .gitignore
+ls
+git 
+git status
+clear
+v .gitignore
+git status
+v .gitignore
+git stauts
+git status
+git status
+v .gitignore
+git status
+v .gitignore
+git status
+git add .
+git status
+git status
+v .gitignore
+git status
+git stash
+ls
+clear
+git stauts
+git status
+ls
+git add .
+ls
+git stauts
+git status
+v .gitignore
+ls
+cd vim
+ls
+ll
+cd .vim
+ls
+cd
+ls
+cd .config
+ls
+v .gitignore
+git add .
+ls
+git status
+ls
+v .gitignore
+git add .
+git stauts
+git status
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+git status
+ls
+clear
+cd .config
+ls
+git status
+git add .
+git add
+git add .
+ls
+git status
+cd .config
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+git status
+v .gitignore
+git add .
+ls
+git status
+git remote add origin https://github.com/StefanoVerrilli/configs.git
+git add .
+git status
+v .gitignore
+git add aliases
+git status
+git add aliases/aliases 
+git status
+git add zsh/.zshrc
+git add -f zsh/.zshrc
+git commit  -m "first commit"
+git push -u origin master
+v .gitignore
+ls
+mv ~/Downloads/vim-20210516T194932Z-001.zip .
+mv ~/Downloads/tmux-20210516T194925Z-001.zip .
+ls
+unzip tmux-20210516T194925Z-001.zip
+unzip vim-20210516T194932Z-001.zip
+y
+y
+y
+clear
+ls
+rm vim-20210516T194932Z-001.zip
+rm tmux-20210516T194925Z-001.zip
+ls
+ll
+v
+vim
+v .gitignore
+clear
+git add vim/.vimrc
+git -f add vim/.vimrc
+git add -f vim/.vimrc
+git add tmux/.tmux.conf
+ls
+clear
+ll
+git commit -m "second commit"
+git push origin master 
+ls
+clear
+l
+ls
+clear
+cd
+ll
+cd .config
+git add ../.zshenv
+cp ../.zshenv .
+cp ../.zshenv 
+cp ../.zshenv .zshenv
+ln ../.zshenv .zshenv
+ls
+ll
+rm .zshenv
+ln ../.zshenv .zshenv
+ls
+v .zshenv
+git add .zshenv
+git commit -m "added .zshenv"
+git push origin master 
+ifconfig
+ifconfigclear
+clear
+ssh bruce@tcp://4.tcp.ngrok.io:12694
+ssh bruce@4.tcp.ngrok.io:12694
+ssh bruce@4.tcp.ngrok.io -p 12694
+clear
+ll
+clear
+ls
+clear
+ll
+clear
+ll
+cd .vim
+ls
+ll
+cd
+rm -rf .viminfo
+rm -rf .vim
+ls
+clear
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd
+ls
+v .zshenv
+clear
+cd .config/
+ls
+cd aliases
+ls
+v aliases
+clear
+cd
+shutdown now
+cd .config/aliases
+ks
+v aliases
+source alias
+source aliases
+clear
+cd
+ls
+shutdown
+sudo shutdown -r now
+clear
+ll
+clear
+cd
+ls
+clear
+ll
+clear
+ls
+clear
+ll
+v .zshenv
+ssh bruce@4.tcp.ngrok.io -p 12694
+ssh bruce@8.tcp.ngrok.io -p 13353
+ssh bruce@8.tcp.ngrok.io -p 13353
+clear
+docker pull debian
+docker pull debian
+docker pull debian
+docker pull debian
+ls
+docker run debian
+docker pull jgoerzen/debian-base-whatever
+sudo docker pull jgoerzen/debian-base-whatever
+ssh bruce@0.tcp.eu.ngrok.io -p 19802
+ssh bruce@0.tcp.eu.ngrok.io -p 19802
+ls
+clear
+ll
+clear
+ssh -R 80:localhost:8080 localhost.run
+clear
+git clone https://github.com/OscarAkaElvis/zsh-parrot-theme.git
+ls
+ll
+cd zsh-parrot-theme
+ls
+chmod +x install.zsh
+./install.zsh
+clear
+cd
+cd .config
+ls
+cd prompt
+ls
+ll
+v Ps1
+mv Ps1 ~
+v Ps1
+source Ps1
+ls
+clear
+ll
+ll
+clear
+ll
+cd .config
+ls
+cd prompt
+ls
+ll
+v Ps1
+mv ~/Ps1 .
+ls
+ll
+cd ..
+pwd
+clear
+cd
+ls
+clear
+ll
+./Sharpening_Smoothing_RGB ../lena.png
+ls
+clear
+clear
+ll
+clear
+cd
+ll
+rm -rf zsh-parrot-theme
+clear
+ll
+clear
+ls
+clear
+ll
+clear
+tmux
+v .zshenv
+cd .config
+ls
+cd zsh
+ls
+ll
+v .zshrc
+cd ..
+cd .docker
+ll
+cd ..
+ls
+clear
+ll
+htop
+clear
+cd
+clear
+ls
+v instl.sh
+chmod +x instl.sh
+./instl.sh
+ls
+ll
+sudo \
+	
+clear
+sudo ./instl.sh
+clear
+clear
+ll
+clear
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+ls
+v .zshenv
+vim .zshenv
+cd .config
+ll
+ll
+ls -la
+cd zsh
+ls
+ll
+ls -la
+cd .zshrc
+vim .zshrc
+source .zshrc
+clear
+cd
+clear
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+sl
+killall mds > /dev/null 2>&1
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/null
+clear
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 1;"name" = "FONTS";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 1;"name" = "FONTS";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+clear
+ll
+killall mds > /dev/null 2>&1
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/null
+sudo defaults write /.Spotlight-V100/VolumeConfiguration Exclusions -array "/Volumes"
+clear
+  '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "FONTS";}' \\
+    '{"enabled" = 1;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 1;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+sl
+ll
+proc
+clear
+ll
+rm instl.sh 
+ls
+clear
+ll
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 1;"name" = "FONTS";}' \\
+    '{"enabled" = 0;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+defaults write com.apple.spotlight orderedItems -array \\
+    '{"enabled" = 1;"name" = "APPLICATIONS";}' \\
+    '{"enabled" = 1;"name" = "SYSTEM_PREFS";}' \\
+    '{"enabled" = 1;"name" = "DIRECTORIES";}' \\
+    '{"enabled" = 1;"name" = "PDF";}' \\
+    '{"enabled" = 0;"name" = "FONTS";}' \\
+    '{"enabled" = 1;"name" = "DOCUMENTS";}' \\
+    '{"enabled" = 0;"name" = "MESSAGES";}' \\
+    '{"enabled" = 0;"name" = "CONTACT";}' \\
+    '{"enabled" = 0;"name" = "EVENT_TODO";}' \\
+    '{"enabled" = 0;"name" = "IMAGES";}' \\
+    '{"enabled" = 0;"name" = "BOOKMARKS";}' \\
+    '{"enabled" = 0;"name" = "MUSIC";}' \\
+    '{"enabled" = 0;"name" = "MOVIES";}' \\
+    '{"enabled" = 0;"name" = "PRESENTATIONS";}' \\
+    '{"enabled" = 0;"name" = "SPREADSHEETS";}' \\
+    '{"enabled" = 0;"name" = "SOURCE";}' \\
+    '{"enabled" = 0;"name" = "MENU_DEFINITION";}' \\
+    '{"enabled" = 0;"name" = "MENU_OTHER";}' \\
+    '{"enabled" = 0;"name" = "MENU_CONVERSION";}' \\
+    '{"enabled" = 0;"name" = "MENU_EXPRESSION";}' \\
+    '{"enabled" = 1;"name" = "MENU_WEBSEARCH";}' \\
+    '{"enabled" = 0;"name" = "MENU_SPOTLIGHT_SUGGESTIONS";}'
+clear
+killall mds > /dev/null 2>&1
+sudo mdutil -i on / > /dev/null
+sudo mdutil -E / > /dev/null
+ls
+ls
+clear
+ll
+clear
+ll
+clear
+lll
+ll
+clear
+ls
+ll
+which jdk
+rm -rf .oracle_jre_usage
+clear
+ll
+ls
+ll
+clear
+ll
+ll
+sl
+l
+ll
+cd .config
+ll
+subl
+cd .zs
+cd zsh
+l
+ll
+v .zshrc
+open .zshrc
+cd ..
+ls
+cd aliases
+ll
+open aliases
+open aliases
+cd ..
+cd prompt
+ls
+cd
+ll
+cd .config
+ls
+rm -rf aliases
+cd zsh
+ls
+ll
+source .zshrc
+sl
+clear
+cd
+ll
+clear
+ll
+cd
+lll
+ll
+ls
+ll
+cd .config
+ll
+cd prompt
+ls
+v Ps1
+clear
+l
+ll
+clear
+cd
+ls
+ll
+ls
+cd projopencv
+ls
+cd
+ll
+cd .config
+ls
+cd vim
+ls
+ll
+v .vimrc
+source .vimrc
+clear
+l
+cd
+ll
+rm .viminfo
+ls
+clear
+ll
+rm .docker
+rm -rf .docker
+ls
+clear
+v hi
+ls
+ll
+rm hi
+clear
+ll
+ll
+ls
+ll
+ll
+neofetch
+ls
+la
+proc
+clear
+df
+clear
+ll
+ls
+./Sharpening_Smoothing_RGB ../lena.png
+ls
+slc
+ls
+clear
+ls
+cd projopencv
+ls
+mkdir Segmentation
+ls
+cd Segmentation
+ls
+open LoG.cpp
+v LoG.cpp
+ls
+open LoG.cpp
+open .
+ls
+cp ../Makefile .
+ls
+v Makefile
+make
+clear
+ls
+cd projopencv/Segmentation
+ls
+make
+rm LoG.o
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+ls
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+make
+./LoG ../lena.png
+make
+make
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+cd projopencv
+ls
+cd Segmentation
+ls
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+./LoG ../monkey1.png
+clear
+ll
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+clear
+./LoG ../monkey1.png
+clear
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+clear
+make
+clear
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+make
+./LoG ../monkey1.png
+./LoG ../lena.png
+make
+./LoG ../lena.png
+shutdown
+shutdown now
+shutdown -r now
+shutdown -s now
+ls
+clear
+ll
+cd projopencv
+ls
+cd Segmentation
+ll
+./LoG ../monkey1.png
+ll
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+ls
+make
+./LoG ../lena.png
+make
+./LoG ../lena.png
+ls
+v Harris.cpp
+clear
+mkdir Harris
+ls
+mv Harris.cpp Harris
+ls
+cd Harris
+ls
+cp ../Makefile .
+ls
+v Makefile
+make
+make
+make
+clear
+ll
+make
+ls
+cd ..
+ls
+mv Harris/* ../
+ls
+ll
+cd
+cd projopencv/Segmentation
+ls
+cd ..
+ls
+mkdir Harris
+ls
+mv Harris.cpp Harris
+ls
+cd Segmentation
+ls
+rm Harris
+cd Harris
+ls
+ll
+cd ..
+rm -rf Harris
+ls
+cleaer
+clear
+ll
+cd ..
+ls
+cd Harris
+ls
+ll
+clear
+ll
+mv ../Makefile .
+ls
+v Makefile
+clear
+make
+make
+make
+make
+make
+ls
+rm Harris.o
+make
+cd projopencv
+ls
+cd Harris
+ls
+make
+rm Harris.o
+make
+ls
+cp ../Color_op/Utility.hpp .
+ls
+make
+rm Harris.o
+ls
+make
+proc
+make
+make
+make
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../lena.png
+make
+make
+ls
+rm Harris.o
+make
+make
+./Harris ../lena.png
+make
+./Harris ../lena.png
+./Harris ../harris_image.png
+./Harris Harris ../harris_image.png
+cd ..
+ls
+mv Screenshot\ 2021-05-21\ at\ 16.47.14.png harris2.png
+mv Harris
+ls
+cd Harris
+ls
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+make
+ls
+rm Harris.o
+make
+./Harris ../harris2.png
+make
+./Harris ../harris2.png
+ls
+cd ..
+cd Canny
+ls
+cp ../Harris/Makefile .
+ls
+v Makefile
+clear
+make
+make
+make
+make
+make
+make
+make
+make
+clear
+l
+ll
+cp ../Harris/Utility.hpp ../
+ls
+ll
+cd
+cd projopencv
+ls
+cd Canny
+ls
+ll
+make
+make
+make
+make
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+make
+./Canny ../lena.png
+cd projopencv
+ls
+cd Harris
+ls
+./Harris ../harris2.png
+cd ..
+ls
+cd Canny
+ls
+./Canny ../lena.png
+cd ...
+cd ..
+ls
+open lena.png
