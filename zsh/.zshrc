@@ -2,7 +2,7 @@ setopt autocd		# Automatically cd into typed directory.
 stty stop undef		# Disable ctrl-s to freeze terminal.
 
 #set autocomplete
-autoload -U compinit
+autoload -Uz compinit && compinit -i
 zstyle ':completion:*' menu select
 zmodload zsh/complist
 compinit
@@ -29,32 +29,10 @@ alias proc="uname -p"
 alias tmux="tmux -f ~/.config/tmux/.tmux.conf"
 alias wget="wget --hsts-file ~/.config/wget"
 alias shutdown="sudo shutdown now"
-
-
 source $HOME/.config/scripts/scripts.zsh
 
-prompt_git_branch() {
-     autoload -Uz vcs_info 
-     precmd_vcs_info() { vcs_info }
-     precmd_functions+=( precmd_vcs_info )
-     setopt prompt_subst
-     zstyle ':vcs_info:git:*' formats '%b'
- }
- 
-prompt_git_info() {
-     echo "$ZSH_THEME_GIT_PROMPT_PREFIX$vcs_info_msg_0_$ZSH_THEME_GIT_PROMPT_SUFFIX"
- }
- 
- prompt_purity_precmd() {
- }
- 
- prompt_purification_setup() {
-     # Display git branch
-     prompt_git_branch
-     RPROMPT='$(prompt_git_info)'
-     PROMPT=$'[%F{2}%~%f%F{255}]$ '
- }
- 
-prompt_purification_setup
+PROMPT=$'[%F{2}%~%f%F{255}]$ '
+
+test -e "${ZDOTDIR}/.iterm2_shell_integration.zsh" && source "${ZDOTDIR}/.iterm2_shell_integration.zsh"
 
 
